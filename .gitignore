@@ -1,0 +1,12 @@
+projectFilesBackup/
+*.iws
+.DS_Store
+.svn
+.credentials.dat
+.ijwb
+mockpiframe.log
+mockpiframe.log.lck
+junitvmwatcher*.properties
+test-output/
+.*.swp
+*~
