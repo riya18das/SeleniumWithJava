@@ -24,7 +24,7 @@ public class CaptureScreenshot {
 		File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		//now copy the screenshot in desired location using copyFile method		
 		FileUtils.copyFile(src, new File("G:\\Riya\\Automation\\src\\seleniumJavapkg\\google.png"));
-		System.out.println("conflict");
+		System.out.println("task 1");
 	}
 
 }
